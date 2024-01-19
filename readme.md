@@ -4,4 +4,4 @@ The code for the most part was given to me by the program and instructors I made
 
 The repository is https://github.com/Ellie22302/fictional-octo-memory
 
-The website is :
+The website is : https://ellie22302.github.io/fictional-octo-memory/
